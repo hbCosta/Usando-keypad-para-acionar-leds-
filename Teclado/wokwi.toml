@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Teclado.uf2'
+elf = 'build/Teclado.elf'
